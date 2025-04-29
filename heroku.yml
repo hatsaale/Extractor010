@@ -3,5 +3,3 @@ build:
     worker: Dockerfile
 run:
   worker: python3 main.py
-- key: PORT
-        value: 8000  # Default port value, update if needed
